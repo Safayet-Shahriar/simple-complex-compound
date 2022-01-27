@@ -1,4 +1,4 @@
-Use of Modals
+Uses of Modals
 
 কোনো কাজ করতে হয় বোঝাতে
 
@@ -41,7 +41,7 @@ str: sub + have to/has to + V1 + obj + adv + ext.
 
 
 Had to
-কোনো কাজ করতে হত
+কোনো কাজ করতে হতো
 str: sub + had to + V1 + obj + adv + ext.
 
 তাকে দৈনিক আট ঘণ্টা কাজ করতে হয়।
